@@ -4,6 +4,7 @@ As plotagens apresentadas representam os gráficos das questões 1, 3 e 5 do Tra
 1. Requisitos
 
 Deve-se ter instalado: 
+
 -Python 3.8 ou superior
 -As bibliotecas:
 numpy
