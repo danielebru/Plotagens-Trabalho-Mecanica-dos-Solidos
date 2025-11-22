@@ -8,8 +8,8 @@ Deve-se ter instalado:
 -Python 3.8 ou superior
 
 -bibliotecas:
-numpy
-pandas
+numpy,
+pandas,
 matplotlib
 
 Para instalar as dependências, use:
