@@ -4,8 +4,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#Código da questao 3, item A:
-#Plote um gráfico da curva de energia de deformação da viga AB com os valores de L, de 0 até 5 m, usando incrementos de 1 m, utilizando o alumínio como material da viga
 
 # dados
 P = 95000  # Peso = 45+50 = 95kN
@@ -40,4 +38,5 @@ for i in range(len(L)):
                 fontsize=9)
 
 plt.tight_layout()
+
 plt.show()
