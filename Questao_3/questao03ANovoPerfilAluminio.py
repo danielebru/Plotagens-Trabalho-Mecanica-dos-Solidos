@@ -1,4 +1,6 @@
-#sSEGUNDA PARTE DA QUESTÃO 3
+#SEGUNDA PARTE DA QUESTÃO 3
+#Se o material A possui uma maior energia de deformação que o material B, altere o perfil da viga do material A para que ele tenha uma energia de deformação menor que o material B, e repita as letras (a) e (b) com o novo perfil para o material A.
+
 # Código da questao 3, item A com o perfil do Alumínio alterado para 2.9 vezes o de aco:
 #Plote um gráfico da curva de energia de deformação da viga AB com os valores de L, de 0 até 5 m, usando incrementos de 1 m, utilizando o alumínio com novo perfil como material da viga
 
@@ -41,3 +43,4 @@ for i in range(len(L)):
 
 plt.tight_layout()
 plt.show()
+
