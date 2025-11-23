@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # dados
 P = 95000  # Peso = 45+50 = 95kN
-E_al = 69e9  # Aço
+E_al = 69e9  # Aluminio
 I =  1.13e-4  # poderia ser 113e-6 tambem, que foi o valor utilizado nos meus calculos
 
 
@@ -44,3 +44,4 @@ for i in range(len(L)):
 
 plt.tight_layout()
 plt.show()
+
