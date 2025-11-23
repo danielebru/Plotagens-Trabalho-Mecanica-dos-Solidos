@@ -8,27 +8,25 @@ Deve-se ter instalado:
 -Python 3.8 ou superior
 
 -bibliotecas:
-numpy,
-pandas,
+numpy
+pandas
 matplotlib
 
 Para instalar as dependências, use:
 
 pip install numpy pandas matplotlib
 
-2. Como salvar o código
+2. Como usar o código
 
-1. Abra um editor de código(VS Code, PyCharm, Jupyter Notebook ou até o bloco de notas).
+O repositório já contém os arquivos .py com o código das plotagens para as questões 1, 3 e 5.
 
-2. Copie o código apresentado no PDF.
+Dessa forma, você pode simplesmente:
 
-3. Salve o arquivo com um nome, por exemplo:
+Abrir o arquivo Python desejado (ex: questao_5_plot.py).
 
-questao_5_plot.py
+E rodar o script para gerar os gráficos.
 
-4. Guarde o arquivo na pasta onde você deseja trabalhar.
-
- 3. Como rodar o código
+3. Como rodar o código
 
 Abra o terminal/cmd na pasta onde o arquivo foi salvo e execute no terminal o nome do arquivo:
 
